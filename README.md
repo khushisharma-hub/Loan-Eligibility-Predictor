@@ -45,9 +45,9 @@ This project uses machine learning (Logistic Regression & Random Forest) to pred
 3. View evaluation reports, confusion matrices, and the ROC Curve  
 4. Predict loan approval for new applicants (extendable)
 
-## 🔗 Demo Video
+## 🎥 Demo Video
 
-🎥 [Watch Demo](https://drive.google.com/file/d/1gYAnFRpm46wswKU5RMcPJRTsJfwCOCEd/view?usp=sharing)
+📽️ [Watch Demo](https://drive.google.com/file/d/1_IOakzzKxcHiDowe59fwmuSjd0wXQ9TG/view?usp=sharing)
 
 ## 👩‍💻 Developed By
 
