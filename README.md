@@ -4,9 +4,9 @@ This project uses machine learning (Logistic Regression & Random Forest) to pred
 
 ## 📁 Files Included
 
-- [`loan_data.csv`](loan_data.csv) — Sample dataset (100 applicants)
-- [`Loan_Eligibility_Predictor.ipynb`](https://github.com/khushisharma-hub/Loan-Eligibility-Predictor/blob/main/Loan_Eligibility_Predictor.ipynb) — Google Colab Notebook
-- `loan_predictor.py` — (Optional) Python script version
+- `loan_data.csv.xlsx` — Excel dataset of 100 applicant records
+- [`Loan_Eligibility_Predictor.ipynb`](https://github.com/khushisharma-hub/Loan-Eligibility-Predictor/blob/main/Loan_Eligibility_Predictor.ipynb) — Colab notebook
+- (Optional) `loan_predictor.py` — Python script version (if exported)
 
 ## 📊 Features Used
 
@@ -40,10 +40,10 @@ This project uses machine learning (Logistic Regression & Random Forest) to pred
 
 ## 🚀 How to Run (Colab Instructions)
 
-1. Upload the provided `loan_data.csv` when prompted  
-2. Run the cells in [`Loan_Eligibility_Predictor.ipynb`](https://github.com/khushisharma-hub/Loan-Eligibility-Predictor/blob/main/Loan_Eligibility_Predictor.ipynb)  
-3. View evaluation reports, confusion matrices, and the ROC Curve  
-4. Predict loan approval for new applicants (extendable)
+1. Upload `loan_data.csv.xlsx` when prompted  
+2. Open and run [`Loan_Eligibility_Predictor.ipynb`](https://github.com/khushisharma-hub/Loan-Eligibility-Predictor/blob/main/Loan_Eligibility_Predictor.ipynb)  
+3. Evaluate the models and visualize the outputs  
+4. Extend to use live data or deployment
 
 ## 🎥 Demo Video
 
@@ -53,7 +53,7 @@ This project uses machine learning (Logistic Regression & Random Forest) to pred
 
 **Khushi Sharma**  
 **Internship ID**: `TS-RISE-MLAI-2514`  
-**Program**: `Tamizan Skills Rise – Machine Learning & AI`
+**Program**: `Tamizhan Skills Rise – Machine Learning & AI`
 
 ---
 
